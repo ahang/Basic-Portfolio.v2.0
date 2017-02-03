@@ -80,14 +80,15 @@ h2, h3 {
     background-color: #4aaaa5;
 }
 
-.nav-bar a {
+/*.nav-bar a {
     display: inline;
     float: left;
     border-right: 2px solid #bbb;
-}
+
+}*/
 
 .nav-bar a:last-child {
-    border-left: none;
+    border-right: none;
 }
 
 /*Main Container Styling*/
@@ -105,8 +106,8 @@ h2, h3 {
 
 .profile {
     display: inline-block;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 250px;
     border-radius: 50%;
     float: left;
     margin: 20px 20px 20px 20px;
