@@ -206,12 +206,12 @@ article {
     float: left;
     margin-top: 25px;
     margin-bottom: 10px;
-    margin-left: 80px;
+    margin-left: 60px;
     overflow: hidden;
     position: relative;
 }
 
-article h3 {
+article h4 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     background-color: #4aaaa5;
     color: white;
