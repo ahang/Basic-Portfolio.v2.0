@@ -138,12 +138,12 @@ h2, h3 {
     border: 1px solid #ddd;
 }
 
-.container-contact {
-    width: 59%;
-}
+/*.container-contact {
+    margin-left 59%;
+}*/
 
 .container-portfolio {
-    width: 65;
+    width: 65%;
 }
 
 .profile {
@@ -199,10 +199,11 @@ form {
     width: 100%;
 /*    padding-left: 60px;
     padding-right: 40px;*/
+
 }
 
 input, textarea {
-    width: 500px;
+    width: 100%;
     background:#efefef;
     border: 1px solid #dedede;
     padding:10px;
